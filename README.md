@@ -1,1 +1,1 @@
-# CodingSkillsChallenge
+# Coding Skills Challenge
