@@ -12,3 +12,14 @@ Check for Erroneous values: the program must append a column for “data qc flag
 A tip is to use the Pandas, datetime, and pytz libraries to write concise steps.
 
 Send the URL to the Github repository when complete.
+
+## Packages Used
+
+1. Pandas
+2. Numpy
+3. Datetime
+4. Pytz
+
+## Replicate Data
+
+All that is needed to replicate the data found in finaldata.xlsx in the data folder is the check.py file included on the main page. 
