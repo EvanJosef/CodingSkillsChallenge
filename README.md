@@ -22,4 +22,4 @@ Send the URL to the Github repository when complete.
 
 ## Replicate Data
 
-All that is needed to replicate the data found in finaldata.xlsx in the data folder is the check.py file included on the main page. 
+All that is needed to replicate the data found in finaldata.xlsx in the data folder is the check.py file included on the main page. The file takes you through every step using comments explaining what each line of code is doing. 
